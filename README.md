@@ -1,0 +1,2 @@
+# NameCards
+Genshin NameCards Repository
